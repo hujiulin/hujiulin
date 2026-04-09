@@ -6,10 +6,10 @@
 
 ---
 
-<pre><big><big><big>🔭 Working on: AI and Big Data platform
+<pre><big><big><big><big>🔭 Working on: AI and Big Data platform
 🌱 Learning:  Technical management
 📫 Blog:      <a href="http://blog.coinidea.com">http://blog.coinidea.com</a>
-⚡ Fun fact:  Child-rearing</big></big></big></pre>
+⚡ Fun fact:  Child-rearing</big></big></big></big></pre>
 
 ---
 
@@ -17,6 +17,4 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
-
-<img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/3-stats.svg" width="49.5%" /><img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/1-repos-per-language.svg" width="49.5%" />
+<img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/0-profile-details.svg" width="49.5%" /><img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/3-stats.svg" width="49.5%" />
