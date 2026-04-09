@@ -5,7 +5,8 @@
 - 📫 How to reach me: http://blog.coinidea.com
 - ⚡ Fun fact: child-rearing
 
+<!-- 由 GitHub Actions 自动生成，参见 .github/workflows/profile-summary-cards.yml -->
 <p align="left">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=hujiulin&title_color=81A1C1&icon_color=81A1C1&text_color=333&bg_color=ffffff&show_icons=true&count_private=true&hide=issues" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujiulin&layout=compact&title_color=81A1C1&bg_color=ffffff" />
+<img height="150px" src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/3-stats.svg" />
+<img height="150px" src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/1-repos-per-language.svg" />
 </p>
