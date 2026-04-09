@@ -17,4 +17,4 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/0-profile-details.svg" width="49.5%" /><img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/3-stats.svg" width="49.5%" />
