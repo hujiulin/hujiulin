@@ -8,7 +8,7 @@
 
 <pre><big><big><big>🔭 Working on: AI and Big Data platform
 🌱 Learning:  Technical management
-📫 Blog:      <a href="http://blog.coinidea.com">http://blog.coinidea.com</a>
+📫 Blog:      <a href="https://blog.coinidea.com">https://blog.coinidea.com</a>
 ⚡ Fun fact:  Child-rearing</big></big></big></pre>
 
 ---
