@@ -12,11 +12,3 @@
 ⚡ Fun fact:  Child-rearing</big></big></big></pre>
 
 ---
-
-<!-- 由 GitHub Actions 自动生成，参见 .github/workflows/profile-summary-cards.yml -->
-
-### 📊 GitHub Stats
-
-<img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
-
-<img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/3-stats.svg" width="49.5%" /><img src="https://raw.githubusercontent.com/hujiulin/hujiulin/main/profile-summary-card-output/default/1-repos-per-language.svg" width="49.5%" />
